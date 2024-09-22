@@ -12,6 +12,7 @@ pinned: true
 # LLM Resume Parser APP
 
 A job application form powered by a Large Language Model (LLM) Resume Parser using StreamLit, LangChain, Groq and LLAMA3.
+My previous project contains an API with post method, this one provides a user interface accessable on the internet
 
 
 ## How it works:
